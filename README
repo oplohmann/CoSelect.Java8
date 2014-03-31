@@ -1,2 +1,4 @@
-CSP-style select defining callback handlers for a non-blocking solution using HawtDispatch.
-This file was modified by IntelliJ IDEA 12.1.6 for binding GitHub repository
+A solution using Java8+ for CSP-style select as in Google's Go making use of HawtDispatch for non-blocking IO. Run the test case CoSelectTest to see how it works.
+
+Requires JDK8 (at least lambda-8-b92 downloadable from http://jdk8.java.net/lambda/).
+Currently NetBeans and Intellij IDEA support JDK8. I've been using IntelliJ IDEA and had no problems with it.
